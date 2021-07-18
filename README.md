@@ -1,6 +1,3 @@
-### Hi there I am sanjay👋
-
-🔭 I’m currently student at PSG college of technology
 <h1 align="center">Hi 👋, I'm sanjay T</h1>
 <h3 align="center">I am currently pursuing Master's degree in software systems</h3>
 
