@@ -67,11 +67,15 @@
  <h3 align="left">Cloud computing:</h3>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://stepinlogic.com/wp-content/uploads/2020/07/aws-logo-1024x626.png" alt="heroku" width="40" height="40"/> </a> 
    
  <h3 align="left">Tools:</h3>
  <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
+ <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
+ <a href="https://www.wireshark.org/" target="_blank"> <img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="qt" width="40" height="40"/> </a>  
    </p>
+   
 
  <h3 align="left">OS:</h3>
  <p align="left">
