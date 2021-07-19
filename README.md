@@ -78,7 +78,7 @@
 
  <h3 align="left">OS:</h3>
  <p align="left">
-    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="linux" width="100" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.apple.com/in/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/271/897/png-clipart-heart-organ-circle-pattern-apple-logo-white-heart.png" alt="linux" width="40" height="40"/> </a>
 </p>
