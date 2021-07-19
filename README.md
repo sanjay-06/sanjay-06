@@ -78,9 +78,9 @@
 
  <h3 align="left">OS:</h3>
  <p align="left">
-    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?crop=edges&fit=crop&h=630&rect=67%2C364%2C1665%2C1040&w=1200" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/i_FoSDDjXrNcb3nvQT9p2TVtI5v-cYfGF2zeuov1R9upkPxdExXPMLDTxi1uzT5W-c1tN369lB8mnXem-GvrWXZAviz4QNl8qhLR9Yvth8N3Y9uaY-y6" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://thumbs.dreamstime.com/b/apple-logo-19106337.jpg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjay-06&show_icons=true&theme=tokyonight)
