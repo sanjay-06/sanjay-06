@@ -72,14 +72,15 @@
  <h3 align="left">Tools:</h3>
  <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
- <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
  <a href="https://www.wireshark.org/" target="_blank"> <img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" alt="qt" width="40" height="40"/> </a>  
    </p>
    
 
  <h3 align="left">OS:</h3>
  <p align="left">
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/i_FoSDDjXrNcb3nvQT9p2TVtI5v-cYfGF2zeuov1R9upkPxdExXPMLDTxi1uzT5W-c1tN369lB8mnXem-GvrWXZAviz4QNl8qhLR9Yvth8N3Y9uaY-y6" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjay-06&show_icons=true&theme=tokyonight)
