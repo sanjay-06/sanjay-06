@@ -67,7 +67,7 @@
  <h3 align="left">Cloud computing:</h3>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://stepinlogic.com/wp-content/uploads/2020/07/aws-logo-1024x626.png" alt="heroku" width="40" height="40"/> </a> 
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://p.kindpng.com/picc/s/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png" alt="heroku" width="40" height="40"/> </a> 
    
  <h3 align="left">Tools:</h3>
  <p align="left">
@@ -80,7 +80,7 @@
  <p align="left">
     <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://w7.pngwing.com/pngs/644/315/png-transparent-computer-icons-macos-apple-apple-white-hand-heart-thumbnail.png" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://www.clipartmax.com/png/middle/34-347603_white-apple-logo-transparent.png" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjay-06&show_icons=true&theme=tokyonight)
