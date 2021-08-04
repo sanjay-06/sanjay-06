@@ -80,7 +80,6 @@
  <p align="left">
     <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/in/" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/FgdD0bV1pHy7Prd9xSaDIbIA0q6_-LwssD2vMzTfv5XjzSTuEWidNpneuGLI-PaJZ3iLeIf3qqbV_D8G35FhfjlDPsajdUH9zE0aWeBY4OLpLF4GvI7FxQ" alt="linux" width="50" height="50"/> </a>
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjay-06&show_icons=true&theme=tokyonight)
